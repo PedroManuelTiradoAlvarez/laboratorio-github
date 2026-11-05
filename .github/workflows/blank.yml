@@ -9,4 +9,4 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - name: Ejecutar mensaje
-     run: echo "¡El flujo automatizado de GitHub Actions funciona correctamente!"
+       run: echo "¡El flujo automatizado de GitHub Actions funciona correctamente!"
